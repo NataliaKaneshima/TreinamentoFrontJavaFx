@@ -1,3 +1,9 @@
 .conteudo{
     -fx-background-color: red;
+    -fx-font-family: Lora;
+}
+
+.numero{
+    -fx-text-fill: white;
+    -fx-font-size: 22px;
 }

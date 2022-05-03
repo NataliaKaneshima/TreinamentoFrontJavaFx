@@ -50,7 +50,7 @@ public class Contador extends Application{
 		
 		Scene cenaPrincipal = new Scene(boxConteudo,400,400); 
 		cenaPrincipal.getStylesheets().add(caminhoDoCss);
-		cenaPrincipal.getStylesheets().add("https://fonts.googleapis.com/css?family=Lora");
+		cenaPrincipal.getStylesheets().add("https://fonts.googleapis.com/css2?family=Lora");
 		primaryStage.setScene(cenaPrincipal);
 		primaryStage.show();
 	}
