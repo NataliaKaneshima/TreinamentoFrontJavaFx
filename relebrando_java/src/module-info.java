@@ -1,0 +1,2 @@
+module relebrando_java {
+}
