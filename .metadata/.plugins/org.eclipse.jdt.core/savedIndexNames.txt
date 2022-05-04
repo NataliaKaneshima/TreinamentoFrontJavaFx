@@ -5,7 +5,6 @@ INDEX VERSION 1.131+C:\Users\natalia.kaneshima\eclipse-workspace\TreinamentoFron
 1865797976.index
 401034146.index
 2024590419.index
-1339155968.index
 872850081.index
 3001047959.index
 2173541859.index
